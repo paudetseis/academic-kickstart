@@ -1,6 +1,6 @@
 +++
 title = "Mapping Curie depth across western Canada from a wavelet analysis of magnetic anomaly data"
-date = 2019
+date = 2019-04-26
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Elyse Gaudreau", "Pascal Audet", "David Schneider"]

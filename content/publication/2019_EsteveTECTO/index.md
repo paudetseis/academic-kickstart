@@ -1,9 +1,9 @@
 +++
 title = "Upper mantle structure underlying the diamondiferous Slave craton from teleseismic body-wave tomography"
-date = 2019
+date = 2019-04-20
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Clement Esteve", "Andrew Schaeffer", "Pascal Audet"]
+authors = ["Clement Esteve", "Andrew J. Schaeffer", "Pascal Audet"]
 
 # Publication type.
 # Legend:

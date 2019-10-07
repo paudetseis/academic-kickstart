@@ -11,14 +11,14 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "500px"
+height = "400px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Telewavesim"
-  content = "Software for teleseismic body-wave modeling"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "Teleseismic body-wave modeling"
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -36,8 +36,8 @@ height = "500px"
 
 [[item]]
   title = "PlateFlex"
-  content = "Software for estimating the effective elastic thickness"
-  align = "center"
+  content = "Estimating the elastic thickness of the lithosphere"
+  align = "right"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "plateflex/logo_plateflex.png"  # Image path relative to your `static/img/` folder.

@@ -1,9 +1,9 @@
 +++
-title = "Deep crustal earthquakes in the Beaufort Sea, western Canadian arctic, from teleseismic depth phase analysis"
-date = 2018-07-01
+title = "Source Properties of the 16 July 2014 Magnitude ∼4.5 Double Earthquakes in the Northern Canadian Cordillera"
+date = 2017-11-11
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Shutian Ma"]
+authors = ["Shutian Ma", "Pascal Audet", "Philippe Dales"]
 
 # Publication type.
 # Legend:
@@ -24,13 +24,14 @@ publication_short = ""
 
 # Abstract.
 abstract = """
-The Beaufort Sea seismic cluster in the western Canadian Arctic is an active seismic zone characterized by approximately one magnitude ≥4 intraplate earthquake per year. Determining the tectonic source of seismicity requires accurate hypocenter information, which is severely hampered by the scarcity of the regional and global seismograph networks in this area. We determine the focal depth of earthquakes with magnitude ≥4 that occurred in the Beaufort Sea cluster since 1995 by analyzing the teleseismic P‐wave coda containing a visible depth phase (pP and/or sP) observed at stations of the Global Seismic Network. Instead of identifying and picking the direct and depth phases, we calculate the envelope of the autocorrelation of vertical‐component seismograms and stack them along either pP‐P or sP‐P delay time curves. Our results indicate that all moderate‐size earthquakes have a focal depth between 18 and 40 km, with an uncertainty of 0.1–5 km. These depths likely correspond to the base of the crust and possibly subcrustal and favor a model of reactivation on high‐dip fossil normal faults due to sediment loading at the Mackenzie delta. These deep earthquakes may potentially trigger submarine slope failure on the continental slope or shelf and could represent a source of hazard for the coastal communities."""
+On 16 July 2014, two moderate earthquakes with similar body‐wave magnitude (⁠MB
+4.5 and 4.6) and epicentral location occurred within 9 min in the northern Canadian Cordillera (NCC), northwestern Canada. Based on magnitude and waveform similarity, cataloged location, and timing, we refer to them as double earthquakes. In this study, we report their source properties using seismic data from regional and distant networks of broadband seismograph stations. Based on teleseismic depth‐phase modeling and double‐difference relocation, the focal depth for the first earthquake is ∼3.5–4.0 km and for the second, ∼6.5–7.0 km. The distance between the two epicenters is ∼1.6 km, for a total separation of less than 3 km. Moment tensor solutions show reverse slip with a minor strike‐slip component and a moment magnitude Mw 4.2 for the first earthquake; the solution for the second earthquake is mainly strike slip with a small reverse‐slip component and a moment magnitude of Mw 4.4. We analyze continuous data for one week following the earthquakes using a matched‐filter technique and detect >20 aftershocks with magnitude ML>2.0 that were previously missed in routine network detections. Combined with observed structural fabric, these results suggest that the eastern part of the NCC represents a large and slowly deforming transpressional zone, simultaneously accommodating continuous right‐lateral shearing of the Cordillera and thrusting along the pre‐existing thrust faults of the fold‐and‐thrust belt."""
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1785/0220180047"
+doi = "10.1785/0220170074"
 
 # Is this a featured publication? (true/false)
 featured = false

@@ -1,9 +1,9 @@
 +++
-title = "Seismic evidence for megathrust fault-valve behavior during episodic tremor and slip"
-date = 2019-10-07
+title = "Seismic velocity model of the crust in the northern Canadian Cordillera from Rayleigh wave dispersion data "
+date = 2017-02-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jeremy M. Gosselin", "Pascal Audet", "Clement Esteve", "Morgan McLellan", "Stephen G. Mosher", "Andrew J. Schaeffer"]
+authors = ["Shutian Ma", "Pascal Audet"]
 
 # Publication type.
 # Legend:
@@ -19,18 +19,18 @@ authors = ["Jeremy M. Gosselin", "Pascal Audet", "Clement Esteve", "Morgan McLel
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Science Advances*"
+publication = "*Canadian Journal of Earth Sciences*"
 publication_short = ""
 
 # Abstract.
 abstract = """
-Fault slip behavior during episodic tremor and slow slip (ETS) events, which occur at the deep extension of subduction zone megathrust faults, is believed to be related to cyclic fluid processes that necessitate fluctuations in pore fluid pressures. In most subduction zones, a layer of anomalously low seismic-wave velocities (LVL) is observed in the vicinity of ETS, and suggests high pore fluid pressures that weaken the megathrust. Using repeated seismic scattering observations in the Cascadia subduction zone, we observe a change in the seismic velocity associated with the LVL after ETS events, which we interpret as a response to fluctuations in pore fluid pressure. These results provide direct evidence of megathrust fault-valve processes during ETS."""
+Models of the seismic velocity structure of the crust in the seismically active northern Canadian Cordillera remain poorly constrained, despite their importance in the accurate location and characterization of regional earthquakes. On 29 August 2014, a moderate earthquake with magnitude 5.0, which generated high-quality Rayleigh wave data, occurred in the Northwest Territories, Canada, ∼100 km to the east of the Cordilleran Deformation Front. We carefully selected 23 seismic stations that recorded the Rayleigh waves and divided them into 13 groups according to the azimuth angle between the earthquake and the stations; these groups mostly sample the Cordillera. In each group, we measured Rayleigh wave group velocity dispersion, which we inverted for one-dimensional shear-wave velocity models of the crust. We thus obtained 13 models that consistently show low seismic velocities with respect to reference models, with a slow upper and lower crust surrounding a relatively fast mid crustal layer. The average of the 13 models is consistent with receiver function data in the central portion of the Cordillera. Finally, we compared earthquake locations determined by the Geological Survey of Canada using a simple homogenous crust over a mantle half space with those estimated using the new crustal velocity model, and show that estimates can differ by as much as 10 km."""
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1139/cjes-2016-0115"
 
 # Is this a featured publication? (true/false)
 featured = false

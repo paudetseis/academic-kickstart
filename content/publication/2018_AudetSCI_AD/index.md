@@ -1,6 +1,6 @@
 +++
 title = "Fluid pressure and shear zone development over the locked to slow slip region in Cascadia"
-date = 2018
+date = 2018-03-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Pascal Audet", "Andrew J. Schaeffer"]

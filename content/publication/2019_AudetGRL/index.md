@@ -1,9 +1,9 @@
 +++
 title = "Seismic evidence for lithospheric thinning and heat in the Northern Canadian Cordillera"
-date = 2019
+date = 2019-05-21
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Claire A Currie", "Andrew J Schaeffer", "Alexander M Hill"]
+authors = ["Pascal Audet", "Claire A. Currie", "Andrew J. Schaeffer", "Alexander M. Hill"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,8 @@ publication = "*Geophysical Research Letters*"
 publication_short = ""
 
 # Abstract.
-abstract = """Geophysical and geological data indicate that the lithosphere in the northern Canadian Cordillera (NCC) is thin and hot. However, lack of direct constraints on mantle structure is fueling debates on the origin and nature of this lithosphere. Here we image the crust and uppermost mantle beneath the NCC and resolve the Moho at ~35‐km depth, the lithosphere‐asthenosphere boundary ~15 km deeper, and a westward dipping structure in the mantle below the eastern NCC. We examine end‐member tectonic models where the thin lithosphere is either long‐lived or has been rejuvenated by gravitational removal. In the long‐lived model, steady state thermal calculations indicate a Moho at ~1,000 °C; alternatively, time‐dependent calculations suggest that a removal event 5–25 Myr ago reproduces the seismic constraints. Combined with geologic evidence, these results suggest that the mantle lithosphere beneath the NCC is either exotic or the result of progressive thickening and cooling since the Miocene."""
+abstract = """
+Geophysical and geological data indicate that the lithosphere in the northern Canadian Cordillera (NCC) is thin and hot. However, lack of direct constraints on mantle structure is fueling debates on the origin and nature of this lithosphere. Here we image the crust and uppermost mantle beneath the NCC and resolve the Moho at ~35‐km depth, the lithosphere‐asthenosphere boundary ~15 km deeper, and a westward dipping structure in the mantle below the eastern NCC. We examine end‐member tectonic models where the thin lithosphere is either long‐lived or has been rejuvenated by gravitational removal. In the long‐lived model, steady state thermal calculations indicate a Moho at ~1,000 °C; alternatively, time‐dependent calculations suggest that a removal event 5–25 Myr ago reproduces the seismic constraints. Combined with geologic evidence, these results suggest that the mantle lithosphere beneath the NCC is either exotic or the result of progressive thickening and cooling since the Miocene."""
 
 # Summary. An optional shortened abstract.
 summary = ""

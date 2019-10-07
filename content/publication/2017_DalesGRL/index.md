@@ -1,9 +1,9 @@
 +++
-title = "Seismic evidence for megathrust fault-valve behavior during episodic tremor and slip"
-date = 2019-10-07
+title = "Seismic Interferometry Using Persistent Noise Sources for Temporal Subsurface Monitoring"
+date = 2017-10-18
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jeremy M. Gosselin", "Pascal Audet", "Clement Esteve", "Morgan McLellan", "Stephen G. Mosher", "Andrew J. Schaeffer"]
+authors = ["Philippe Dales", "Pascal Audet", "Gerrit Olivier"]
 
 # Publication type.
 # Legend:
@@ -19,18 +19,18 @@ authors = ["Jeremy M. Gosselin", "Pascal Audet", "Clement Esteve", "Morgan McLel
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Science Advances*"
+publication = "*Geophysical Research Letters*"
 publication_short = ""
 
 # Abstract.
 abstract = """
-Fault slip behavior during episodic tremor and slow slip (ETS) events, which occur at the deep extension of subduction zone megathrust faults, is believed to be related to cyclic fluid processes that necessitate fluctuations in pore fluid pressures. In most subduction zones, a layer of anomalously low seismic-wave velocities (LVL) is observed in the vicinity of ETS, and suggests high pore fluid pressures that weaken the megathrust. Using repeated seismic scattering observations in the Cascadia subduction zone, we observe a change in the seismic velocity associated with the LVL after ETS events, which we interpret as a response to fluctuations in pore fluid pressure. These results provide direct evidence of megathrust fault-valve processes during ETS."""
+In passive source seismology, seismic interferometry typically refers to the cross correlation of ambient noise to construct an estimate of the Green's function between sensors. The presence of persistent natural and/or anthropogenic sources can bias or prevent the retrieval of these estimated Green's functions. Here we show how these strong persistent sources can be used to measure small changes in the medium between a source and either (or both) source‐sensor pairs. The method relies on localizing the sources and using this information to identify and select cross‐correlation functions for each source of interest. We illustrate this method by monitoring growth of a block cave at an underground mine using three nearly continuously operating ore crushers which dominate the wavefield. This technique should work equally well in natural environments using sources such as volcanic tremor, hydrothermal bubble cavitation, and microseisms."""
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1002/2017GL075342"
 
 # Is this a featured publication? (true/false)
 featured = false

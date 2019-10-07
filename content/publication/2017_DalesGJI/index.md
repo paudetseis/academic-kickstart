@@ -1,9 +1,9 @@
 +++
-title = "Seismic evidence for megathrust fault-valve behavior during episodic tremor and slip"
-date = 2019-10-07
+title = "Interferometric methods for spatio temporal seismic monitoring in underground mines"
+date = 2017-05-31
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jeremy M. Gosselin", "Pascal Audet", "Clement Esteve", "Morgan McLellan", "Stephen G. Mosher", "Andrew J. Schaeffer"]
+authors = ["Philippe Dales", "Pascal Audet", "Gerrit Olivier", "Jean-Philippe Mercier"]
 
 # Publication type.
 # Legend:
@@ -19,18 +19,18 @@ authors = ["Jeremy M. Gosselin", "Pascal Audet", "Clement Esteve", "Morgan McLel
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Science Advances*"
+publication = "*Geophysical Journal International*"
 publication_short = ""
 
 # Abstract.
 abstract = """
-Fault slip behavior during episodic tremor and slow slip (ETS) events, which occur at the deep extension of subduction zone megathrust faults, is believed to be related to cyclic fluid processes that necessitate fluctuations in pore fluid pressures. In most subduction zones, a layer of anomalously low seismic-wave velocities (LVL) is observed in the vicinity of ETS, and suggests high pore fluid pressures that weaken the megathrust. Using repeated seismic scattering observations in the Cascadia subduction zone, we observe a change in the seismic velocity associated with the LVL after ETS events, which we interpret as a response to fluctuations in pore fluid pressure. These results provide direct evidence of megathrust fault-valve processes during ETS."""
+In active underground mining environments, monitoring of the rockmass has important implications for both safety and productivity. Monitoring can be accomplished by exploiting the many passive seismic sources (microearthquakes, drilling, ore-crushers etc.) around the mine on the condition they can be accurately detected and located. We implement a popular beamforming-like approach that uses cross-correlation functions in a maximum likelihood search to locate sources of seismic energy. We illustrate the technique with a synthetic example in which two simultaneous sources are located and discuss briefly the effects of different processing parameters. We demonstrate the effectiveness of this technique by monitoring both impulsive sources (microearthquakes) and other persistent sources (drilling and ore-crushers) in two active underground mines. We then propose how this information can be used in conjunction with ambient seismic noise interferometry to estimate seismic Green's functions under temporally variable and anisotropic wavefield conditions. Alternatively, we demonstrate how stable persistent sources, typically seen as contaminants in ambient noise applications, can be used to monitor changing rockmass conditions and potentially guide mining operations."""
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1093/gji/ggx189"
 
 # Is this a featured publication? (true/false)
 featured = false

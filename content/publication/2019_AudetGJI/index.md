@@ -1,6 +1,6 @@
 +++
 title = "Curie depth estimation from magnetic anomaly data: a re-assessment using multitaper spectral analysis and Bayesian inference"
-date = 2019
+date = 2019-04-09
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Pascal Audet", "Jeremy M. Gosselin"]

@@ -39,6 +39,12 @@ education:
     institution: Universite de Montreal
     year: 2002
 
+awards:
+- 2018 Member of the College of New Scholars, Artists and Scientists, *Royal Society of Canada*
+- 2018 Young Scientist of the Year, *Canadian Geophysical Union*
+
+
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -72,3 +78,4 @@ user_groups:
 ---
 
 Pascal Audet is an Associate Professor and University Research Chair in Geophysics at the University of Ottawa.
+

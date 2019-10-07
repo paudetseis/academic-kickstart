@@ -1,9 +1,9 @@
 +++
-title = "Seismic evidence for megathrust fault-valve behavior during episodic tremor and slip"
-date = 2019-10-07
+title = "Recovery of P Waves from Ambient‐Noise Interferometry of Borehole Seismic Data around the San Andreas Fault in Central California"
+date = 2017-12-05
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jeremy M. Gosselin", "Pascal Audet", "Clement Esteve", "Morgan McLellan", "Stephen G. Mosher", "Andrew J. Schaeffer"]
+authors = ["Stephen G. Mosher", "Pascal Audet"]
 
 # Publication type.
 # Legend:
@@ -19,18 +19,18 @@ authors = ["Jeremy M. Gosselin", "Pascal Audet", "Clement Esteve", "Morgan McLel
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Science Advances*"
+publication = "*Bulletin of the Seismological SOciety of America*"
 publication_short = ""
 
 # Abstract.
 abstract = """
-Fault slip behavior during episodic tremor and slow slip (ETS) events, which occur at the deep extension of subduction zone megathrust faults, is believed to be related to cyclic fluid processes that necessitate fluctuations in pore fluid pressures. In most subduction zones, a layer of anomalously low seismic-wave velocities (LVL) is observed in the vicinity of ETS, and suggests high pore fluid pressures that weaken the megathrust. Using repeated seismic scattering observations in the Cascadia subduction zone, we observe a change in the seismic velocity associated with the LVL after ETS events, which we interpret as a response to fluctuations in pore fluid pressure. These results provide direct evidence of megathrust fault-valve processes during ETS."""
+Studies on the recovery and processing of surface waves from ambient‐noise interferometry are now standard practice in seismology. It has recently been shown that body waves propagating within an array of seismic stations can be recovered under appropriate conditions. In this article, we investigate and develop optimal data processing procedures necessary to recover Green’s functions for P waves that are propagating through a network of borehole seismometers near Parkfield, California. In particular, we discuss the effects that common preprocessing operations have on data recorded by these stations, such as 1‐bit normalization, event muting, and decimation. Considering these operations and their effects, we have come to favor a simple whitening procedure that is based on a phase reconstruction of signals. In the context of these stations, we have shown that whitening seismic data in this manner is sufficient to recover body waves via interferometry techniques. Applying these procedures, we have detected P waves propagating between these stations, from which we have produced a first‐order crustal velocity model; the specifications of this model are in general agreement with those of previous velocity models that have been proposed for the Parkfield region."""
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1785/0120160375"
 
 # Is this a featured publication? (true/false)
 featured = false

@@ -1,6 +1,6 @@
 +++
 title = "Seismic evidence for a mantle suture and implications for the origin of the Canadian Cordillera"
-date = 2019
+date = 2019-05-21
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Yunfeng Chen", "Yu Jeffrey Gu", "Claire A. Currie", "Stephen T. Johnston", "Shu-Huei Hung", "Andrew J. Schaeffer", "Pascal Audet"]

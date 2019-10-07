@@ -1,6 +1,6 @@
 +++
-title = "Curie depth estimation from magnetic anomaly data: a re-assessment using multitaper spectral analysis and Bayesian inference"
-date = 2018
+title = "EON-ROSE and the Canadian Cordillera Array–Building Bridges to Span Earth System Science in Canada"
+date = 2018-07-12
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Katherine JE Boggs", "Rick C Aster", "Pascal Audet", "Gilbert Brunet", "Ron M Clowes", "Catherine D de Groot-Hedlin", "Eric Donovan", "David W Eaton", "Julie Elliott", "Jeffrey T Freymueller", "Michael AH Hedlin", "Roy D Hyndman", "Thomas S James", "Paul J Kushner", "Kristin D Morell", "Christie D Rowe", "Derek L Schutt", "Michael G Sideris", "Malaika Ulmi", "Frank L Vernon", "Nicole West"]
