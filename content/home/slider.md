@@ -69,7 +69,7 @@ height = "400px"
   overlay_img = "plateflex/logo_plateflex.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
   cta_label = "Software Page"
-  cta_url = "https://github.com/paudetseis/PlateFlex"
+  cta_url = "https://paudetseis.github.io/PlateFlex/"
   cta_icon_pack = "fab"
   cta_icon = "github"
 
