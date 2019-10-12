@@ -35,19 +35,6 @@ height = "400px"
   cta_icon = "github"
 
 [[item]]
-  title = "SplitPy"
-  content = "Teleseismic shear-wave splitting"
-  align = "right"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "splitpy/splitpy_logo.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
-  cta_label = "Software Page"
-  cta_url = "https://paudetseis.github.io/SplitPy"
-  cta_icon_pack = "fab"
-  cta_icon = "github"
-
-[[item]]
   title = "StDb"
   content = "Seismic station database"
   align = "right"
@@ -61,6 +48,19 @@ height = "400px"
   cta_icon = "github"
 
 [[item]]
+  title = "SplitPy"
+  content = "Teleseismic shear-wave splitting"
+  align = "right"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "splitpy/splitpy_logo.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  cta_label = "Software Page"
+  cta_url = "https://paudetseis.github.io/SplitPy"
+  cta_icon_pack = "fab"
+  cta_icon = "github"
+
+[[item]]
   title = "PlateFlex"
   content = "Elastic thickness of the lithosphere"
   align = "right"
@@ -70,6 +70,19 @@ height = "400px"
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
   cta_label = "Software Page"
   cta_url = "https://paudetseis.github.io/PlateFlex/"
+  cta_icon_pack = "fab"
+  cta_icon = "github"
+
+[[item]]
+  title = "PlateCurie"
+  content = "Magnetic thickness of the lithosphere"
+  align = "right"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "platecurie/logo_platecurie.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  cta_label = "Software Page"
+  cta_url = "https://paudetseis.github.io/PlateCurie/"
   cta_icon_pack = "fab"
   cta_icon = "github"
 
