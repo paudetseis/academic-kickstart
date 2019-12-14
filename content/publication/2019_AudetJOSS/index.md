@@ -1,6 +1,5 @@
 +++
-title = "Telewavesim: Python software for teleseismic body wave
-modeling"
+title = "Telewavesim: Python software for teleseismic body wave modeling"
 date = 2019-12-02
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
