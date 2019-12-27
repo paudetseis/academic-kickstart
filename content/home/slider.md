@@ -54,15 +54,15 @@ height = "400px"
   cta_icon = "github"
 
 [[item]]
-  title = "StDb"
-  content = "Seismic station database"
+  title = "RfPy"
+  content = "Teleseismic receiver functions"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stdb/stdb_logo.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "rfpy/RfPy_logo_website.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
   cta_label = "Software Page"
-  cta_url = "https://schaefferaj.github.io/StDb"
+  cta_url = "https://paudetseis.github.io/RfPy"
   cta_icon_pack = "fab"
   cta_icon = "github"
 
@@ -76,6 +76,19 @@ height = "400px"
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
   cta_label = "Software Page"
   cta_url = "https://paudetseis.github.io/SplitPy"
+  cta_icon_pack = "fab"
+  cta_icon = "github"
+
+[[item]]
+  title = "StDb"
+  content = "Seismic station database"
+  align = "right"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "stdb/stdb_logo.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  cta_label = "Software Page"
+  cta_url = "https://schaefferaj.github.io/StDb"
   cta_icon_pack = "fab"
   cta_icon = "github"
 
