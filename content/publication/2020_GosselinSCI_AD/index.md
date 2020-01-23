@@ -1,6 +1,6 @@
 +++
 title = "Seismic evidence for megathrust fault-valve behavior during episodic tremor and slip"
-date = 2019-12-13
+date = 2020-01-22
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jeremy M. Gosselin", "Pascal Audet", "Clement Esteve", "Morgan McLellan", "Stephen G. Mosher", "Andrew J. Schaeffer"]
@@ -30,7 +30,7 @@ Fault slip behavior during episodic tremor and slow slip (ETS) events, which occ
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1126/sciadv.aay5174"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -48,7 +48,7 @@ tags = []
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://advances.sciencemag.org/content/6/4/eaay5174/tab-pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
