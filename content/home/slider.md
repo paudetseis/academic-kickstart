@@ -49,7 +49,7 @@ height = "400px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Software Page"
-  cta_url = "https://paudetseis.github.io/OBStools/"
+  cta_url = "https://nfsi-canada.github.io/OBStools/"
   cta_icon_pack = "fab"
   cta_icon = "github"
 
