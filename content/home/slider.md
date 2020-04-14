@@ -67,6 +67,19 @@ height = "400px"
   cta_icon = "github"
 
 [[item]]
+  title = "OrientPy"
+  content = "Station orientation toolbox"
+  align = "right"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "orientpy/OrientPy_logo_website.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  cta_label = "Software Page"
+  cta_url = "https://nfsi-canada.github.io/OrientPy"
+  cta_icon_pack = "fab"
+  cta_icon = "github"
+
+[[item]]
   title = "SplitPy"
   content = "Teleseismic shear-wave splitting"
   align = "right"
