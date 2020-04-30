@@ -2,7 +2,7 @@
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = active  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear in.
 
 title = "UOttawa Geophysics: scanning the Earth"
@@ -10,7 +10,7 @@ title = "UOttawa Geophysics: scanning the Earth"
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "admin"
+author = ""
 +++
 
 Our group's research addresses fundamental questions concerning the evolution and dynamics of the solid Earth
