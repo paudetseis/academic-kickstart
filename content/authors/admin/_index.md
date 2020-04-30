@@ -39,6 +39,17 @@ education:
     institution: Universite de Montreal
     year: 2002
 
+awards:
+- 2020 David Elliott Best Paper Award from the Canadian Tectonics Groups, *Geological Association of Canada* 
+- 2018 Member of the College of New Scholars, Artists and Scientists, *Royal Society of Canada*
+- 2018 Young Scientist of the Year, *Canadian Geophysical Union*
+- 2017 Young Researcher of the Year Award, *University of Ottawa*
+- 2016 Excellence in Media Relations Award, *University of Ottawa*
+- 2016-2021 University Research Chair in Geophysics, *University of Ottawa*
+- 2015-2017 Sloan Research Fellowship in Physics, *Alfred P. Sloan Foundation*
+- 2015-2020 Early Researcher Award, *Ontario Ministry of Research and Innovation*
+- 2015 Personnalité de la semaine, *Radio-Canada/Le Droit*
+- 2008-2011 Miller Research Fellowship, *University of California Berkeley*
 
 
 
@@ -78,15 +89,4 @@ user_groups:
 
 
 
-### Awards
-- 2020 David Elliott Best Paper Award from the Canadian Tectonics Groups, *Geological Association of Canada* 
-- 2018 Member of the College of New Scholars, Artists and Scientists, *Royal Society of Canada*
-- 2018 Young Scientist of the Year, *Canadian Geophysical Union*
-- 2017 Young Researcher of the Year Award, *University of Ottawa*
-- 2016 Excellence in Media Relations Award, *University of Ottawa*
-- 2016-2021 University Research Chair in Geophysics, *University of Ottawa*
-- 2015-2017 Sloan Research Fellowship in Physics, *Alfred P. Sloan Foundation*
-- 2015-2020 Early Researcher Award, *Ontario Ministry of Research and Innovation*
-- 2015 Personnalité de la semaine, *Radio-Canada/Le Droit*
-- 2008-2011 Miller Research Fellowship, *University of California Berkeley*
 
