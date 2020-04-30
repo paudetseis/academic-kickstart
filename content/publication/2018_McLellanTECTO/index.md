@@ -3,7 +3,7 @@ title = "Structure and fabric of the crust and uppermost mantle in the northern 
 date = 2018-01-31
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Morgan McLellan", "Andrew J. Schaeffer", "PascalAudet"]
+authors = ["mclellan", "schaeffer", "admin"]
 
 # Publication type.
 # Legend:

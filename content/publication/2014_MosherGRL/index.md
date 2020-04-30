@@ -3,7 +3,7 @@ title = "Seismic evidence for rotating mantle flow around subducting slab edge a
 date = 2014-07-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Stephen G. Mosher", "Pascal Audet", "Ivan L'Heureux"]
+authors = ["mosher", "admin", "Ivan L'Heureux"]
 
 # Publication type.
 # Legend:

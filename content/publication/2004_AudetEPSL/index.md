@@ -3,7 +3,7 @@ title = "Variations in elastic thickness in the Canadian Shield"
 date = 2004-09-30
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Jean-Claude Mareschal"]
+authors = ["admin", "Jean-Claude Mareschal"]
 
 # Publication type.
 # Legend:

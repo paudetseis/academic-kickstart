@@ -3,7 +3,7 @@ title = "Layered crustal anisotropy around the San Andreas Fault near Parkfield,
 date = 2015-05-02
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet"]
+authors = ["admin"]
 
 # Publication type.
 # Legend:

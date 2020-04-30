@@ -3,7 +3,7 @@ title = "Weakened Lithosphere Beneath Greenland Inferred From Effective Elastic 
 date = 2018-05-28
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Rebekka Steffen", "Pascal Audet", "Bjorn Lund"]
+authors = ["Rebekka Steffen", "admin", "Bjorn Lund"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "Slab morphology in the Cascadia fore arc and its relation to episodic t
 date = 2010-04-02
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Michael G. Bostock", "Devin C. Boyarko", "Michael R. Brudzinski", "Richard M. Allen"]
+authors = ["admin", "Michael G. Bostock", "Devin C. Boyarko", "Michael R. Brudzinski", "Richard M. Allen"]
 
 # Publication type.
 # Legend:

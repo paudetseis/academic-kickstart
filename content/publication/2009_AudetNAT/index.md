@@ -3,7 +3,7 @@ title = "Seismic evidence for overpressured subducted oceanic crust and megathru
 date = 2009-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Michael G. Bostock", "Nikolas I. Christensen", "Simon M. Peacock"]
+authors = ["admin", "Michael G. Bostock", "Nikolas I. Christensen", "Simon M. Peacock"]
 
 # Publication type.
 # Legend:

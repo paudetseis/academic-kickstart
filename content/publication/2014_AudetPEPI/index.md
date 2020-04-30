@@ -3,7 +3,7 @@ title = "Toward mapping the effective elastic thickness of planetary lithosphere
 date = 2014-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet"]
+authors = ["admin"]
 
 # Publication type.
 # Legend:

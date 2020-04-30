@@ -3,7 +3,7 @@ title = "Hydrologic control of forearc strength and seismicity in the Costa Rica
 date = 2013-09-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Susan Y. Schwartz"]
+authors = ["admin", "Susan Y. Schwartz"]
 
 # Publication type.
 # Legend:

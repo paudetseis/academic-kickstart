@@ -3,7 +3,7 @@ title = "Phase‐Weighted Stacking Applied to Low‐Frequency Earthquakes"
 date = 2014-08-14
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Clifford H. Thurber", "Xiangfang Zeng", "Amanda M. Thomas", "Pascal Audet"]
+authors = ["Clifford H. Thurber", "Xiangfang Zeng", "Amanda M. Thomas", "admin"]
 
 # Publication type.
 # Legend:

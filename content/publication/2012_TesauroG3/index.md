@@ -3,7 +3,7 @@ title = "The effective elastic thickness of the continental lithosphere: Compari
 date = 2012-09-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Magdala Tesauro", "Pascal Audet", "Mikhail K. Kaban", "Roland Burgmann", "Sierd Cloetingh"]
+authors = ["Magdala Tesauro", "admin", "Mikhail K. Kaban", "Roland Burgmann", "Sierd Cloetingh"]
 
 # Publication type.
 # Legend:

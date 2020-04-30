@@ -3,7 +3,7 @@ title = "Structure and anisotropy of the crust in the Cyclades, Greece, using re
 date = 2016-04-02
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Elise Cossette", "Pascal Audet", "David Schneider", "Bernhard Grasemann"]
+authors = ["Elise Cossette", "admin", "David Schneider", "Bernhard Grasemann"]
 
 # Publication type.
 # Legend:

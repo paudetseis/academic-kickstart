@@ -3,7 +3,7 @@ title = "Receiver functions using OBS data: promises and limitations from numeri
 date = 2016-03-30
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet"]
+authors = ["admin"]
 
 # Publication type.
 # Legend:

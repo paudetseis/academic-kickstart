@@ -3,7 +3,7 @@ title = "Curie depth estimation from magnetic anomaly data: a re-assessment usin
 date = 2019-04-09
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Jeremy M. Gosselin"]
+authors = ["admin", "gosselin"]
 
 # Publication type.
 # Legend:

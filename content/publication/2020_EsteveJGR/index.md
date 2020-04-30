@@ -3,7 +3,7 @@ title = "The upper mantle structure of northwestern Canada from teleseismic body
 date = 2020-01-03
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Clement Esteve", "Pascal Audet", "Andrew J. Schaeffer", "Derek Schutt", "Richard C. Aster", "Joel Cubley"]
+authors = ["esteve", "admin", "schaeffer", "Derek Schutt", "Richard C. Aster", "Joel Cubley"]
 
 
 # Publication type.

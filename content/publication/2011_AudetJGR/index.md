@@ -3,7 +3,7 @@ title = "Directional wavelet analysis on the sphere: Application to gravity and 
 date = 2011-01-08
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet"]
+authors = ["admin"]
 
 # Publication type.
 # Legend:

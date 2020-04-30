@@ -3,7 +3,7 @@ title = "Wavelet analysis of the coherence between Bouguer gravity and topograph
 date = 2007-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Jean-Claude Mareschal"]
+authors = ["admin", "Jean-Claude Mareschal"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "High pore pressures and porosity at 35 km depth in the Cascadia subduct
 date = 2011-05-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Simon M. Peacock", "Nikolas I. Christensen", "Michael G. Bostock", "Pascal Audet"]
+authors = ["Simon M. Peacock", "Nikolas I. Christensen", "Michael G. Bostock", "admin"]
 
 # Publication type.
 # Legend:

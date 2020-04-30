@@ -3,7 +3,7 @@ title = "Seismic evidence for lithospheric thinning and heat in the Northern Can
 date = 2019-05-21
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Claire A. Currie", "Andrew J. Schaeffer", "Alexander M. Hill"]
+authors = ["admin", "Claire A. Currie", "schaeffer", "Alexander M. Hill"]
 
 # Publication type.
 # Legend:

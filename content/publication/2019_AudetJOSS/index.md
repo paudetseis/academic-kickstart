@@ -3,7 +3,7 @@ title = "Telewavesim: Python software for teleseismic body wave modeling"
 date = 2019-12-02
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Colin J. Thomson", "Michael G. Bostock", "Tom Eulenfeld"]
+authors = ["admin", "Colin J. Thomson", "Michael G. Bostock", "Tom Eulenfeld"]
 
 # Publication type.
 # Legend:

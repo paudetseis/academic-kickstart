@@ -3,7 +3,7 @@ title = "Mechanical controls on the deformation of continents at convergent marg
 date = 2007-12-15
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "A. Mark Jellinek", "Hideharu Uno"]
+authors = ["admin", "A. Mark Jellinek", "Hideharu Uno"]
 
 # Publication type.
 # Legend:

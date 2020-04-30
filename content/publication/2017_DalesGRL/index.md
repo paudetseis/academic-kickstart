@@ -3,7 +3,7 @@ title = "Seismic Interferometry Using Persistent Noise Sources for Temporal Subs
 date = 2017-10-18
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Philippe Dales", "Pascal Audet", "Gerrit Olivier"]
+authors = ["Philippe Dales", "admin", "Gerrit Olivier"]
 
 # Publication type.
 # Legend:

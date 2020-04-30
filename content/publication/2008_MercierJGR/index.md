@@ -3,7 +3,7 @@ title = "The teleseismic signature of fossil subduction: Northwestern Canada"
 date = 2008-04-29
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jean-Philippe Mercier", "Michael G. Bostock", "Pascal Audet", "James B. Gaherty", "Ed J. Garnero", "Justin Revenaugh"]
+authors = ["Jean-Philippe Mercier", "Michael G. Bostock", "admin", "James B. Gaherty", "Ed J. Garnero", "Justin Revenaugh"]
 
 # Publication type.
 # Legend:

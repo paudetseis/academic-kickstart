@@ -3,7 +3,7 @@ title = "Seismic properties and mineral crystallographic preferred orientations 
 date = 2015-05-31
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Elise Cossette", "David Schneider", "Pascal Audet", "Bernhard Grasemann", "Gerlinde Habler"]
+authors = ["Elise Cossette", "David Schneider", "admin", "Bernhard Grasemann", "Gerlinde Habler"]
 
 # Publication type.
 # Legend:

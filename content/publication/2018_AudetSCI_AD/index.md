@@ -3,7 +3,7 @@ title = "Fluid pressure and shear zone development over the locked to slow slip 
 date = 2018-03-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Andrew J. Schaeffer"]
+authors = ["admin", "schaeffer"]
 
 # Publication type.
 # Legend:

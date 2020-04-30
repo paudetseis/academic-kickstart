@@ -3,7 +3,7 @@ title = "The 5.2 magnitude earthquake near Ladysmith, Quebec, 17 May 2013: impli
 date = 2014-03-20
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shutian Ma", "Pascal Audet"]
+authors = ["Shutian Ma", "admin"]
 
 # Publication type.
 # Legend:

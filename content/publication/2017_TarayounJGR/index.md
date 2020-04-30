@@ -3,7 +3,7 @@ title = "Architecture of the crust and uppermost mantle in the northern Canadian
 date = 2017-06-21
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alizia Tarayoun", "Pascal Audet", "Stephane Mazzotti"]
+authors = ["Alizia Tarayoun", "admin", "Stephane Mazzotti"]
 
 # Publication type.
 # Legend:

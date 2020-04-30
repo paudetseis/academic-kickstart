@@ -3,7 +3,7 @@ title = "Low‐frequency earthquakes at the southern Cascadia margin"
 date = 2015-06-18
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alexandre P. Plourde", "Michael G. Bostock", "Pascal Audet", "Amanda M. Thomas"]
+authors = ["Alexandre P. Plourde", "Michael G. Bostock", "admin", "Amanda M. Thomas"]
 
 # Publication type.
 # Legend:

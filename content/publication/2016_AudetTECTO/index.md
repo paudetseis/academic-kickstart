@@ -3,7 +3,7 @@ title = "Teleseismic constraints on the geological environment of deep episodic 
 date = 2016-02-22
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "YoungHee Kim"]
+authors = ["admin", "YoungHee Kim"]
 
 # Publication type.
 # Legend:

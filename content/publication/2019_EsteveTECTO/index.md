@@ -3,7 +3,7 @@ title = "Upper mantle structure underlying the diamondiferous Slave craton from 
 date = 2019-04-20
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Clement Esteve", "Andrew J. Schaeffer", "Pascal Audet"]
+authors = ["esteve", "schaeffer", "admin"]
 
 # Publication type.
 # Legend:

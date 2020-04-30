@@ -3,7 +3,7 @@ title = "Seismic velocity model of the crust in the northern Canadian Cordillera
 date = 2017-02-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shutian Ma", "Pascal Audet"]
+authors = ["Shutian Ma", "admin"]
 
 # Publication type.
 # Legend:

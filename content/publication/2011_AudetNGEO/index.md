@@ -3,7 +3,7 @@ title = "Dominant role of tectonic inheritance in supercontinent cycles"
 date = 2011-02-13
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Roland Burgmann"]
+authors = ["admin", "Roland Burgmann"]
 
 # Publication type.
 # Legend:

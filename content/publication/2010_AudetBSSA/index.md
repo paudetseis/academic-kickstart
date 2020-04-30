@@ -3,7 +3,7 @@ title = "Temporal Variations in Crustal Scattering Structure near Parkfield, Cal
 date = 2010-06-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet"]
+authors = ["admin"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "Seismic evidence for megathrust fault-valve behavior during episodic tr
 date = 2020-01-22
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jeremy M. Gosselin", "Pascal Audet", "Clement Esteve", "Morgan McLellan", "Stephen G. Mosher", "Andrew J. Schaeffer"]
+authors = ["gosselin", "admin", "esteve", "mclellan", "mosher", "schaeffer"]
 
 # Publication type.
 # Legend:

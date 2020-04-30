@@ -3,7 +3,7 @@ title = "Deep crustal earthquakes in the Beaufort Sea, western Canadian arctic, 
 date = 2018-07-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Shutian Ma"]
+authors = ["admin", "Shutian Ma"]
 
 # Publication type.
 # Legend:

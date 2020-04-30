@@ -3,7 +3,7 @@ title = "Recovery of P Waves from Ambient‐Noise Interferometry of Borehole Sei
 date = 2017-12-05
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Stephen G. Mosher", "Pascal Audet"]
+authors = ["mosher", "admin"]
 
 # Publication type.
 # Legend:

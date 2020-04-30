@@ -3,7 +3,7 @@ title = "Teleseismic waveform modelling with a one-way wave equation"
 date = 2007-12-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Michael G. Bostock", "Jean-Philippe Mercier"]
+authors = ["admin", "Michael G. Bostock", "Jean-Philippe Mercier"]
 
 # Publication type.
 # Legend:

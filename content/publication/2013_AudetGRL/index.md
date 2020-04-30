@@ -3,7 +3,7 @@ title = "Seismic anisotropy of subducting oceanic uppermost mantle from fossil s
 date = 2013-09-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet"]
+authors = ["admin"]
 
 # Publication type.
 # Legend:

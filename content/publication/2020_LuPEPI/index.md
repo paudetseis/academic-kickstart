@@ -1,9 +1,9 @@
 +++
-title = "Seismic evidence for megathrust fault-valve behavior during episodic tremor and slip"
-date = 2020-01-22
+title = "Effective elastic thickness over the Chinese mainland and surroundings estimated from a joint inversion of Bouguer admittance and coherence"
+date = 2020-03-02
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhezhe Lu", "Chun-Feng Li", "Shuang Zhu", "Pascal Audet"]
+authors = ["lu", "Chun-Feng Li", "Shuang Zhu", "admin"]
 
 # Publication type.
 # Legend:

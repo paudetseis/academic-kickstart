@@ -3,7 +3,7 @@ title = "Morphology of the Explorer–Juan de Fuca slab edge in northern Cascadi
 date = 2008-11-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Michael G. Bostock", "Jean-Philippe Mercier", "John F. Cassidy"]
+authors = ["admin", "Michael G. Bostock", "Jean-Philippe Mercier", "John F. Cassidy"]
 
 # Publication type.
 # Legend:

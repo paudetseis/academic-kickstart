@@ -3,7 +3,7 @@ title = "Uplift and seismicity driven by groundwater depletion in central Califo
 date = 2014-05-22
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Colin B. Amos", "Pascal Audet", "William C. Hammond", "Roland Burgmann", "Ingrid A. Johanson", "Geoffrey Blewitt"]
+authors = ["Colin B. Amos", "admin", "William C. Hammond", "Roland Burgmann", "Ingrid A. Johanson", "Geoffrey Blewitt"]
 
 # Publication type.
 # Legend:

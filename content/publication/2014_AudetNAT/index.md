@@ -3,7 +3,7 @@ title = "Possible control of subduction zone slow-earthquake periodicity by sili
 date = 2014-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Roland Burgmann"]
+authors = ["admin", "Roland Burgmann"]
 
 # Publication type.
 # Legend:

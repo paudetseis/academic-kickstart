@@ -3,7 +3,7 @@ title = "Anisotropy of the flexural response of the lithosphere in the Canadian 
 date = 2004-10-16
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Jean-Claude Mareschal"]
+authors = ["admin", "Jean-Claude Mareschal"]
 
 # Publication type.
 # Legend:

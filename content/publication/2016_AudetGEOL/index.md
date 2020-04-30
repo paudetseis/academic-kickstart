@@ -3,7 +3,7 @@ title = "Control of lithospheric inheritance on neotectonic activity in northwes
 date = 2016-10-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pascal Audet", "Christian Sole", "Andrew J. Schaeffer"]
+authors = ["admin", "Christian Sole", "schaeffer"]
 
 # Publication type.
 # Legend:
