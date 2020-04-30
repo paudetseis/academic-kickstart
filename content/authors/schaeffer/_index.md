@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Scientist
+role: Research Scientist, PhD
 
 # Organizations/Affiliations
 organizations:
@@ -77,3 +77,4 @@ user_groups:
 
 Andrew is famous for the innumerable citations of his "Schaeffer and Lebedev" papers. The references appear on approximately 1 in 3 posters and talks at AGU. It's just absurd.
 
+Andrew was a NSERC Postdoctoral Fellow in the UO Geophysics group from 2015 to 2017, and a Banting Postdoctoral Fellow also in our group from 2017 to 2018. He still (!) maintains our group computers.
