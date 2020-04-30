@@ -80,3 +80,10 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = false
+
+[[buttons]]
+  id = "home"
+  title = "Home"
+  icon_pack = "fas"
+  icon = "home"
+  enable = false
