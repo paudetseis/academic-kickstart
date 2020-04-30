@@ -15,7 +15,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Ottawa
-  url: ""
+  url: "https://www.uottawa.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Seismology, Inverse problems, and Tectonics.
@@ -39,8 +39,12 @@ education:
     year: 2014
 
 awards:
+- 2020-2021 Ontario Graduate Scholarship
+- 2019 Canadian Society for Exploration Geophysics (CSEG) Scholarship
+- 2018 Canadian Exploration Geophysical Society (KEGS) Scholarship
 - 2018 Editor's Choice article, Canadian Geotechnical Journal
-- 2017 Vanier Canada Graduate Scholarship
+- 2017-2020 Vanier Canada Graduate Scholarship
+- 2017 Admission Scholarship, *University of Ottawa*
 
 
 

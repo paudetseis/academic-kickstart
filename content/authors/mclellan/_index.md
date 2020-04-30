@@ -15,7 +15,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Ottawa
-  url: ""
+  url: "https://www.uottawa.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Geophysics, Seismology, Earthquakes, Tectonics.
@@ -38,9 +38,9 @@ education:
     institution: University of Ottawa
     year: 2014
 
-# awards:
-# - 2018 Member of the College of New Scholars, Artists and Scientists, *Royal Society of Canada*
-# - 2018 Young Scientist of the Year, *Canadian Geophysical Union*
+awards:
+- 2018 Admission Scholarship, *University of Ottawa*
+- 2016 Best Student Presentation, *Geological Association of Canada Geophysics Division*
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

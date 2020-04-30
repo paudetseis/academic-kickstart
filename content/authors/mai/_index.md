@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Ottawa
-  url: ""
+  url: "https://www.uottawa.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Geophysics, Signal Processing, Earthquakes, Machine Learning.
@@ -40,6 +40,7 @@ education:
 
 awards:
 - 2015 Liu Guangding Geophysical Scholarship, China
+- 2019 International Admission Excellence Scholarship, *University of Ottawa*
 
 
 # Social/Academic Networking

@@ -16,7 +16,7 @@ role: Associate Professor of Geophysics &
 # Organizations/Affiliations
 organizations:
 - name: University of Ottawa
-  url: ""
+  url: "https://www.uottawa.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

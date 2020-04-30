@@ -15,7 +15,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Ottawa
-  url: ""
+  url: "https://www.uottawa.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Seismology, Marine Seismology, Machine Learning, Signal Processing.
@@ -39,10 +39,12 @@ education:
     year: 2014
 
 awards:
+- 2020 MITACS Mobility Scholarship
 - 2019 Earl D. & Reba C. Griffin Memorial Scholarship
 - 2019 CSEG Foundation Award 
 - 2018 NSERC CGS-D (2 years)
 - 2018 KEGS Collett Scholarship in Geophysics (Inaugural Recipient)
+- 2018 Admission Scholarship, *Univerity of Ottawa*
 
 
 # Social/Academic Networking

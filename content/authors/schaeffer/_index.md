@@ -38,8 +38,8 @@ education:
     year: 2006
 
 awards:
-- 2017 - 2018 Banting Postdoctoral Fellowship
-- 2015 - 2017 NSERC Postdoctoral Fellowship
+- 2017-2018 Banting Postdoctoral Fellowship
+- 2015-2017 NSERC Postdoctoral Fellowship
 - 2014 Study of the Earth's Deep Interior Graduate Research Award, *American Geophysical Union*
 - 2013 Best Student Paper Award, *Geophysical Journal International*
 

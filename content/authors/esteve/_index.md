@@ -38,9 +38,12 @@ education:
     institution: Universite de Montpellier
     year: 2014
 
-# awards:
-# - 2018 Member of the College of New Scholars, Artists and Scientists, *Royal Society of Canada*
-# - 2018 Young Scientist of the Year, *Canadian Geophysical Union*
+awards:
+- 2020 BMO Graduate Scholarship
+- 2019 Best Student Paper Award, *Canadian Geophysical Union* (IUGG conference)
+- 2019 Canadian Exploration Geophysical Society (KEGS) Scholarship
+- 2018 Brian Rust Scholarship, *OCGC Geoscience Centre*
+- 2016 Admission Scholarship, *University of Ottawa*
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
