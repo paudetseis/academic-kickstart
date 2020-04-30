@@ -1,13 +1,13 @@
 ---
 title: ""
-summary: "Lithosphere Magnetic Thickness"
+summary: "Lithosphere Elastic Thickness"
 authors: []
-tags: ["PlateCurie"]
+tags: ["PlateFlex"]
 categories: []
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://paudetseis.github.io/PlateCurie/"
+external_link: "https://paudetseis.github.io/PlateFlex/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
