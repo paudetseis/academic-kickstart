@@ -75,6 +75,15 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/Pascal_Audet_CV.pdf
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2364-9454
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Pascal_Audet
+- icon: linkedin
+  icon_pack: fa
+  link: https://www.linkedin.com/in/pascal-audet-a2b72479/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
