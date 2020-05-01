@@ -82,7 +82,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Pascal_Audet
 - icon: linkedin
-  icon_pack: fa
+  icon_pack: fab
   link: https://www.linkedin.com/in/pascal-audet-a2b72479/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
