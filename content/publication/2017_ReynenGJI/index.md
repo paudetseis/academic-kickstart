@@ -3,7 +3,7 @@ title = "Supervised machine learning on a network scale: application to seismic 
 date = 2017-05-31
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Andrew Reynen", "admin"]
+authors = ["reynen", "admin"]
 
 # Publication type.
 # Legend:

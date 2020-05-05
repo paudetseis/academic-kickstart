@@ -3,7 +3,7 @@ title = "Source Properties of the 16 July 2014 Magnitude ∼4.5 Double Earthquak
 date = 2017-11-11
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shutian Ma", "admin", "Philippe Dales"]
+authors = ["ma", "admin", "dales"]
 
 # Publication type.
 # Legend:

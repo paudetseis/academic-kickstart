@@ -3,7 +3,7 @@ title = "Mapping Curie depth across western Canada from a wavelet analysis of ma
 date = 2019-04-26
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Elyse Gaudreau", "admin", "David Schneider"]
+authors = ["gaudreau", "admin", "David Schneider"]
 
 # Publication type.
 # Legend:

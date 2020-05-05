@@ -3,7 +3,7 @@ title = "Interferometric methods for spatio temporal seismic monitoring in under
 date = 2017-05-31
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Philippe Dales", "admin", "Gerrit Olivier", "Jean-Philippe Mercier"]
+authors = ["dales", "admin", "Gerrit Olivier", "Jean-Philippe Mercier"]
 
 # Publication type.
 # Legend:
