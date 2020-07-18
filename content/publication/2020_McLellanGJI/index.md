@@ -3,7 +3,7 @@ title = "Effective elastic thickness over the Chinese mainland and surroundings 
 date = 2020-06-08
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["McLellan Morgan", "admin"]
+authors = ["mclellan", "admin"]
 
 # Publication type.
 # Legend:
