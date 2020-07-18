@@ -1,6 +1,6 @@
 +++
-title = "Effective elastic thickness over the Chinese mainland and surroundings estimated from a joint inversion of Bouguer admittance and coherence"
-date = 2020-06-08
+title = "Uncovering the physical controls of deep subduction zone slow slip using supervised classification of subducting plate features"
+date = 2020-06-12
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["mclellan", "admin"]
