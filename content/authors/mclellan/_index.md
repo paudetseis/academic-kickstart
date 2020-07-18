@@ -39,6 +39,7 @@ education:
     year: 2014
 
 awards:
+- 2020 Ontario Graduate Scholarship
 - 2018 Admission Scholarship, *University of Ottawa*
 - 2016 Best Student Presentation, *Geological Association of Canada Geophysics Division*
 
