@@ -1,6 +1,6 @@
 +++
-title = "Effective elastic thickness over the Chinese mainland and surroundings estimated from a joint inversion of Bouguer admittance and coherence"
-date = 2020-06-08
+title = "Moho variations across the northern Canadian Cordillera"
+date = 2020-07-17
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin", "Derek Schutt", schaeffer", "esteve", "Richard C. Aster", "Joel Cubley"]
