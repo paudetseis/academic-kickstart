@@ -3,7 +3,7 @@ title = "Moho variations across the northern Canadian Cordillera"
 date = 2020-07-17
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Derek Schutt", schaeffer", "esteve", "Richard C. Aster", "Joel Cubley"]
+authors = ["admin", "Derek Schutt", "schaeffer", "esteve", "Richard C. Aster", "Joel Cubley"]
 
 # Publication type.
 # Legend:
