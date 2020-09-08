@@ -30,7 +30,7 @@ Moho morphology in orogens provides important constraints on the rheology and de
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1785/0220200166"
 
 # Is this a featured publication? (true/false)
 featured = false
