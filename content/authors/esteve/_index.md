@@ -10,12 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Wares Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ottawa
-  url: "https://www.uottawa.ca/"
+- name: McGill University
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include seismic tomography, dynamics and evolution of northwestern Canada, seismic hazard assessment, and seismo-tectonics
@@ -30,7 +29,7 @@ education:
   courses:
   - course: PhD in Earth Sciences
     institution: University of Ottawa
-    year: In progress
+    year: 2020
   - course: MSc in Earth Dynamics and Natural Hazards
     institution: Universite de Montpellier
     year: 2016
@@ -74,8 +73,8 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Clément Estève is a PhD candidate in the Geophysics group at the University of Ottawa.
+Clément Estève obtained his PhD from the University of Ottawa in 2020 and is now a Wares Postdoctoral Fellow at Mcgill University. 
 
