@@ -49,7 +49,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:ttrac015@uottawa.ca"
-[# - icon: twitter
+# - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
