@@ -74,7 +74,7 @@ email: "zhezhelu@zju.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Visitors
+- Alumni
 ---
 
 Zhezhe Lu is a PhD candidate at the Zhejiang University, and a visiting student (September,2019-March,2020) at the University of Ottawa.
