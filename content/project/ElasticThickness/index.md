@@ -1,8 +1,8 @@
 ---
 title: ""
-summary: "Slow earthquakes"
+summary: "The elastic thickness of the lithosphere is a measure of the stiffness of tectonic plates, and can be used to investigate its thermal and rheological structure. Our group develops wavelet analysis techniques to estimate its distribution on Earth and terrestrial planets"
 authors: []
-tags: ["SlowEarthquakes"]
+tags: ["ElasticThickness"]
 categories: []
 date: ""
 
@@ -35,6 +35,6 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "example"
 ---
 Our work is dedicated toward understand slow earthquakes at plate boundaries.

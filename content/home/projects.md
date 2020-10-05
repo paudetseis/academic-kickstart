@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "Projects"
@@ -27,19 +27,15 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Slow earthquakes"
-    tag = "Slow earthquakes"
-
-  [[content.filter_button]]
-    name = "Plate boundaries"
-    tag = "Plate boundaries"
+    tag = "SlowEarthquakes"
 
   [[content.filter_button]]
     name = "Canadian Cordillera"
-    tag = "Canadian Cordillera"
+    tag = "CanadianCordillera"
   
   [[content.filter_button]]
     name = "Elastic thickness"
-    tag = "Elastic thickness"
+    tag = "ElasticThickness"
 
   [[content.filter_button]]
     name = "Other"
@@ -57,7 +53,7 @@ subtitle = ""
   view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
