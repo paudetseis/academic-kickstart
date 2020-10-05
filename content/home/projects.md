@@ -26,9 +26,21 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Slow earthquakes"
+    tag = "Slow earthquakes"
+
+  [[content.filter_button]]
+    name = "Plate boundaries"
+    tag = "Plate boundaries"
+
+  [[content.filter_button]]
+    name = "Canadian Cordillera"
+    tag = "Canadian Cordillera"
   
+  [[content.filter_button]]
+    name = "Elastic thickness"
+    tag = "Elastic thickness"
+
   [[content.filter_button]]
     name = "Other"
     tag = "Demo"
@@ -42,7 +54,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
