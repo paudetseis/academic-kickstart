@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Elastic thickness"
 summary: "The elastic thickness of the lithosphere is a measure of the stiffness of tectonic plates, and can be used to investigate its thermal and rheological structure. Our group develops wavelet analysis techniques to estimate its distribution on Earth and terrestrial planets"
 authors: []
-tags: ["ElasticThickness"]
+tags: []
 categories: []
 date: ""
 
@@ -37,4 +37,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: "example"
 ---
-Our work is dedicated toward understand slow earthquakes at plate boundaries.
+The strength of a planet’s lithosphere, estimated from the analysis and modeling of gravity and topography data, reflects its bulk composition and thermal structure, and can thus provide valuable information on the evolution and heat budget of the planet. In the past decade several advances in analysis and modeling techniques have revealed a detailed picture of lithospheric strength on Earth, with significant importance for our understanding of plate tectonic cycles, continental evolution, and sea-level response to melting ice-sheets. Nonetheless, there is a long-standing debate concerning the applicability of the models and techniques used to infer lithospheric strength. Our group has made significant contributions to the resolution of the debate by obtaining the first global map of lithospheric strength and its anisotropy on continents using advanced spatio-spectral analysis techniques, developed in our group for both Cartesian and spherical geometry. Following revision of the underlying theoretical models used to infer lithospheric strength from the spectral analysis, our group applied the new approach to all terrestrial planets where high-resolution data is available (Earth, Moon, Mars, Venus). We also developed the open-source software [PlateFlex](https://github.com/paudetseis/PlateFlex) to measure the elastic thickness on cartesian grids, and have applied it to China, Greenland and the Pacific Ocean. 

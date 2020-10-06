@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Canadian Cordillera"
 summary: "The Canadian Cordillera is a large, elevated and deformed landmass in western Canada created by the forces of plate tectonics. Our group uses seismic data to produce images of its deep internal structure, which give insight into its history and evolution."
 authors: []
 tags: ["CanadianCordillera"]
@@ -37,4 +37,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: "example"
 ---
-Our work is dedicated toward understand slow earthquakes at plate boundaries.
+Cordilleras are the site of tectonic accretion and mountain building through the sustained action of convergent tectonic forces. In northwestern Canada, research into the architecture of the Canadian Cordillera has been historically limited by sparse geophysical monitoring infrastructure. In 2012, our group established a CFI-funded network of broadband seismograph stations ([Yukon-Northwest Seismograph Network, YNSN](https://www.fdsn.org/networks/detail/NY/)) that provide open, continuous data in real time across northwestern Canada. Led by former Banting Fellow A. Schaeffer and colleagues at the Northwest Territories Geological Survey, our group installed an additional network of stations on Banks Island, NT, in the western Canadian Arctic (Banks Island Seismic Network, BISN). Results from these studies are accumulating fast and our group has made outstanding discoveries on the structure and dynamics of the lithosphere in the Cordillera. Specifically, we has found conclusive evidence that hidden processes in the lithospheric mantle play a dominant role in shaping the Canadian Cordillera.
