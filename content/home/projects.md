@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -26,16 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Slow earthquakes"
-    tag = "SlowEarthquakes"
-
-  [[content.filter_button]]
     name = "Canadian Cordillera"
     tag = "CanadianCordillera"
   
   [[content.filter_button]]
     name = "Elastic thickness"
     tag = "ElasticThickness"
+
+  [[content.filter_button]]
+    name = "Slow earthquakes"
+    tag = "SlowEarthquakes"
 
   [[content.filter_button]]
     name = "Other"

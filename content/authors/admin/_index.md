@@ -33,10 +33,10 @@ education:
     institution: University of British Columbia
     year: 2008
   - course: MSc in Earth Sciences
-    institution: Universite du Quebec a Montreal
+    institution: Université du Québec à Montréal
     year: 2004
   - course: BSc in Physics
-    institution: Universite de Montreal
+    institution: Université de Montréal
     year: 2002
 
 awards:
