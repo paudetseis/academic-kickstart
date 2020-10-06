@@ -45,7 +45,7 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["SlowEarthquakes"]
 
 # Links (optional).
 url_pdf = "https://academic.oup.com/gji/article-abstract/doi/10.1093/gji/ggaa285/5856557?redirectedFrom=fulltext"

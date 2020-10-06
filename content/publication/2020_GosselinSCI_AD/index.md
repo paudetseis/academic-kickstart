@@ -45,7 +45,7 @@ tags = ["Cascadia ETS"]
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["SlowEarthquakes"]
 
 # Links (optional).
 url_pdf = "https://advances.sciencemag.org/content/6/4/eaay5174/tab-pdf"

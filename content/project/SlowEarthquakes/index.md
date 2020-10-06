@@ -2,7 +2,7 @@
 title: "Slow earthquakes"
 summary: "The rubbing of tectonic plates at subduction zones produce the largest and most lethal earthquakes. Our group studies the geological environment where these earthquakes occur using seismic imaging methods."
 authors: []
-tags: ["SlowEarthquakes"]
+tags: []
 categories: []
 date: ""
 
@@ -37,4 +37,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: "example"
 ---
-Our work is dedicated toward understand slow earthquakes at plate boundaries.
+Subduction zones are the sites of giant earthquakes and associated tsunamis, caused by an oceanic plate rubbing against a continental margin along a megathrust fault as it makes its way down into the Earth’s mantle. Newly discovered phenomena of episodic slow earthquakes at subduction zones have revolutionized our understanding of the earthquake cycle at the transition between seismic and aseismic deformation. Relating their occurrence and physics to the complex geological environment of subduction zones remains one of the most important seismological grand challenges. My group investigates the structural properties of various subduction zones worldwide using seismic data. Our results make important contributions to understanding the driving mechanisms of subduction zone slow earthquakes by identifying the role of water in the mechanical stability of megathrust faults. 
