@@ -31,7 +31,7 @@ The Northern Canadian Cordillera (NCC) of northwestern Canada is segmented by se
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1130/G47688.1"
 
 # Is this a featured publication? (true/false)
 featured = false
