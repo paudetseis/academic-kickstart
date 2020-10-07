@@ -1,9 +1,9 @@
 +++
-title = "Morphology of the Explorer–Juan de Fuca slab edge in northern Cascadia: Imaging plate capture at a ridge-trench-transform triple junction"
-date = 2008-11-01
+title = "Automatic detection and location of seismic events from time-delay projection mapping and neural network classification"
+date = 2020-09-22
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Michael G. Bostock", "Jean-Philippe Mercier", "John F. Cassidy"]
+authors = ["mosher", "admin"]
 
 # Publication type.
 # Legend:
@@ -19,18 +19,18 @@ authors = ["admin", "Michael G. Bostock", "Jean-Philippe Mercier", "John F. Cass
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Geology*"
+publication = "*Journal of Geophysical Research*"
 publication_short = ""
 
 # Abstract.
 abstract = """
-The Explorer plate is a young oceanic microplate that accommodates relative motion between the Pacific, Juan de Fuca, and North America plates near northern Vancouver Island, Canada. The northern limit of Explorer plate–Juan de Fuca subduction and the fate of the slab in northern Cascadia are poorly understood. We use passive teleseismic recordings from an array of POLARIS broadband seismic stations to image crustal and upper mantle structure beneath northern Vancouver Island into the interior of British Columbia. A clear signature of subducted material extends northeast from the Brooks Peninsula at crustal levels, beneath Georgia Strait and the mainland deep into the mantle to 300 km depth. Complexity in slab morphology results from Juan de Fuca ridge subduction and toroidal flow around the slab edge, in agreement with geophysical and geological data. We propose a tectonic model for the Explorer plate in which its separation from the Juan de Fuca plate is caused by the thermomechanical erosion of the slab edge and slab thinning at shallow levels, both of which slow convergence with North America and lead eventually to plate capture."""
+The past several decades have seen an exponential increase in the volume of available seismic data, and with it has come the need to develop fast, automatic earthquake detection, and location algorithms. Some of the most recent and promising tools come from the field of machine learning. In this study, we combine a recent seismic detection and location method with neural network classification and analyze 4 months of continuous data recorded by a network of 76 stations in northern California. While these approaches have been used separately, our implementation is unique in that it is not constrained by source templates and avoids user‐defined detection thresholds. In particular, we partition our data set into 234,240, 3‐min long time windows with 75% overlap. For each time window, we create a 3D image that captures information about the coherence of the seismic wavefield. We then devise four features as input and train a neural network classifier to predict which time windows in the data set are likely to contain regional seismic events. These features include the second and fourth Hu image moments computed from 2D cross sections of our 3D images and statistical p values that quantify the probability of observing network‐wide power‐spectral density values at 0.2 and 0.5 s. Our neural network model predicts that 2,522 time windows contain seismic events, from which we locate 1,192 unique events."""
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1130/G25356A.1"
+doi = "10.1029/2020JB019426"
 
 # Is this a featured publication? (true/false)
 featured = false

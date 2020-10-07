@@ -1,5 +1,5 @@
 ---
-title: "Slow earthquakes"
+title: "Subduction zones"
 summary: "The rubbing of tectonic plates at subduction zones produce the largest and most lethal earthquakes. Our group studies the geological environment where these earthquakes occur using seismic imaging methods."
 authors: []
 tags: []

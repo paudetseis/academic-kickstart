@@ -38,8 +38,8 @@ subtitle = ""
     tag = "OceanBottom"
 
   [[content.filter_button]]
-    name = "Slow earthquakes"
-    tag = "SlowEarthquakes"
+    name = "Subduction zones"
+    tag = "SubductionZones"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
