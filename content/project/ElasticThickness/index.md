@@ -2,7 +2,7 @@
 title: "Elastic thickness"
 summary: "The elastic thickness of the lithosphere is a measure of the stiffness of tectonic plates, and can be used to investigate its thermal and rheological structure. Our group develops wavelet analysis techniques to estimate its distribution on Earth and terrestrial planets"
 authors: []
-tags: []
+tags: ["ElasticThickness"]
 categories: []
 date: ""
 

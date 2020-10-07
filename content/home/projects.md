@@ -30,6 +30,10 @@ subtitle = ""
     tag = "CanadianCordillera"
   
   [[content.filter_button]]
+    name = "Data science"
+    tag = "DataScience"
+
+  [[content.filter_button]]
     name = "Elastic thickness"
     tag = "ElasticThickness"
 

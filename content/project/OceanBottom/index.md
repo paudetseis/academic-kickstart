@@ -2,7 +2,7 @@
 title: "Ocean-bottom seismology"
 summary: "Most tectonic plate boundaries are located offshore, away from land-based seismic investigation. Our group works toward increasing marine seismic coverage using ocean-bottom seismic (OBS) stations to study plate tectonics in the oceans using OBS data."
 authors: []
-tags: []
+tags: ["OceanBottom"]
 categories: []
 date: ""
 
