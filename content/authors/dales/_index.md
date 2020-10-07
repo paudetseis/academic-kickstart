@@ -1,43 +1,41 @@
 ---
 # Display name
-name: Élise Cosette
+name: Philippe Dales
 
 # Username (this should match the folder name)
 authors:
-- cossette
+- dales
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Rédactrice, réviseuse, traductrice
+role: Research Geophysicist, PhD
 
 # Organizations/Affiliations
-#organizations:
-#- name: University of Victoria
+organizations:
+- name: Institute of Mine Seismology
 
 # Short bio (displayed in user profile at end of posts)
-bio: Élise worked on the seismic structure and anisotropy of the crust in the Cyclades region of Greece.
+bio: Phil works on mine seismology. During his PhD he developed algorithms to automatically detect and locate micro-earthquakes around mines and monitor temporal variations in structures using ambient seismic noise.
 
-#interests:
-#- Potential fields
-#- Earthquake sources
-#- Satellite remote sensing
+interests:
+- Mine seismology
+- Seismic data processing
+- Software development
 
 education:
   courses:
-  - course: BA Traduction anglais-français
+  - course: Postdoctoral Fellow
+    institution: Université de Grenoble
+    year: 2019
+  - course: PhD in Earth Sciences
     institution: University of Ottawa
-    year: in progress
-  - course: MSc in Earth Sciences
+    year: 2018
+  - course: BSc in Physics-Geology
     institution: University of Ottawa
-    year: 2015
-  - course: BSc in Geology
-    institution: University of Ottawa
-    year: 2012
+    year: 2014
 
-awards:
-- 2013 Ontario Graduate Scholarship
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +45,6 @@ social:
 #- icon: home
 #  icon_pack: fas
 #  link: https://web.uvic.ca/~enissen/people.html
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Elise_Cossette
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/élise-cossette-590b56ab/?originalSubdomain=ca
-
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -68,6 +59,12 @@ social:
 #- icon: cv
 #  icon_pack: ai
 #  link: files/CV_Esteve_Clement.pdf
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Philippe_Dales
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/philippe-dales-140b61b6/?originalSubdomain=ca
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -78,5 +75,5 @@ user_groups:
 - Alumni
 ---
 
-Élyse Gaudreau is a former MSc student in the Geophysics group, now PhD student at the University of Victoria.
+Philippe Dales is a former PhD student in the Geophysics group. He now works at the Institute of Mine Seismology.
 

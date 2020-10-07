@@ -34,12 +34,12 @@ subtitle = ""
     tag = "ElasticThickness"
 
   [[content.filter_button]]
-    name = "Slow earthquakes"
-    tag = "SlowEarthquakes"
+    name = "Marine seismology"
+    tag = "OceanBottom"
 
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Slow earthquakes"
+    tag = "SlowEarthquakes"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
