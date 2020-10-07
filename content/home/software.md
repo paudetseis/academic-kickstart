@@ -25,37 +25,37 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "OBStools"
-    tag = "OBStools"
+#  [[content.filter_button]]
+#    name = "OBStools"
+#    tag = "OBStools"
 
-  [[content.filter_button]]
-    name = "OrientPy"
-    tag = "OrientPy"
+#  [[content.filter_button]]
+#    name = "OrientPy"
+#    tag = "OrientPy"
 
-  [[content.filter_button]]
-    name = "PlateCurie"
-    tag = "PlateCurie"
+#  [[content.filter_button]]
+#    name = "PlateCurie"
+#    tag = "PlateCurie"
 
-  [[content.filter_button]]
-    name = "PlateFlex"
-    tag = "PlateFlex"
+#  [[content.filter_button]]
+#    name = "PlateFlex"
+#    tag = "PlateFlex"
 
-  [[content.filter_button]]
-    name = "RfPy"
-    tag = "RfPy"
+#  [[content.filter_button]]
+#    name = "RfPy"
+#    tag = "RfPy"
   
-  [[content.filter_button]]
-    name = "SplitPy"
-    tag = "SplitPy"
+#  [[content.filter_button]]
+#    name = "SplitPy"
+#    tag = "SplitPy"
 
-  [[content.filter_button]]
-    name = "StDb"
-    tag = "StDb"
+#  [[content.filter_button]]
+#    name = "StDb"
+#    tag = "StDb"
 
-  [[content.filter_button]]
-    name = "Telewavesim"
-    tag = "Telewavesim"
+#  [[content.filter_button]]
+#    name = "Telewavesim"
+#    tag = "Telewavesim"
 
 
 [design]

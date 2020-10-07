@@ -25,25 +25,25 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "Canadian Cordillera"
-    tag = "CanadianCordillera"
-  
-  [[content.filter_button]]
-    name = "Data science"
-    tag = "DataScience"
-
-  [[content.filter_button]]
-    name = "Elastic thickness"
-    tag = "ElasticThickness"
-
-  [[content.filter_button]]
-    name = "Marine seismology"
-    tag = "OceanBottom"
-
-  [[content.filter_button]]
-    name = "Subduction zones"
-    tag = "SubductionZones"
+#  [[content.filter_button]]
+#    name = "Canadian Cordillera"
+#    tag = "CanadianCordillera"
+#  
+#  [[content.filter_button]]
+#    name = "Data science"
+#    tag = "DataScience"
+#
+#  [[content.filter_button]]
+#    name = "Elastic thickness"
+#    tag = "ElasticThickness"
+#
+#  [[content.filter_button]]
+#    name = "Marine seismology"
+#    tag = "OceanBottom"
+#
+#  [[content.filter_button]]
+#    name = "Subduction zones"
+#    tag = "SubductionZones"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
