@@ -50,8 +50,8 @@ social:
 
 # email: ""
  
- user_groups:
- - Grad Students
- ---
+user_groups:
+- Grad Students
+---
   
 Marie-Pierre Nantel is a MSc student in the Ottawa-Carleton Geophysics group who studies at Carleton University
