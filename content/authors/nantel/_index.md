@@ -12,12 +12,12 @@ superuser: false
 # Role/position
 role: MSc Student
 
-#Organizations/Affiliations
+# Organizations/Affiliations
 organizations: 
 - name: Carleton University
   url: "https://carleton.ca"
 
-#Short bio 
+# Short bio 
 bio: 
 
 interests: 
@@ -28,13 +28,13 @@ interests:
 - Statistical and Mathematical Analysis
 
 education: 
- courses: 
- - course: Msc in Earth Science
- - institution: Carleton University
- - year: 2023
- - course: BSc in Mathematics
- - institution: Carleton University
- - year: 2018
+  courses: 
+  - course: Msc in Earth Science
+    institution: Carleton University
+    year: 2023
+  - course: BSc in Mathematics
+    institution: Carleton University
+    year: 2018
  
 # awards: 
 # Collaborative Research and Training Experience Program?
