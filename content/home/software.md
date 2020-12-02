@@ -42,6 +42,10 @@ subtitle = ""
 #    tag = "PlateFlex"
 
 #  [[content.filter_button]]
+#    name = "PyRaysum"
+#    tag = "PyRaysum"
+
+#  [[content.filter_button]]
 #    name = "RfPy"
 #    tag = "RfPy"
   

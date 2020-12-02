@@ -30,7 +30,7 @@ Surface wave tomography is a valuable tool for constraining azimuthal anisotropy
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1093/gji/ggaa561"
 
 # Is this a featured publication? (true/false)
 featured = false
