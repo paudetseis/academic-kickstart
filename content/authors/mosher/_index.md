@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Scientific Data Specialist
+role: Scientific Data Specialist, PhD
 
 # Organizations/Affiliations
 organizations:
