@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Geophysics &
+role: Professor of Geophysics &
       University Research Chair
 
 # Organizations/Affiliations
@@ -94,7 +94,7 @@ user_groups:
 - Faculty
 ---
 
-**Pascal Audet** is Associate Professor in Geophysics in the Department of Earth Sciences, University of Ottawa. He currently holds the *University Research Chair in Solid Earth Geophysics*. Prior to this he was a Miller Research Fellow at the University of California, Berkeley. 
+**Pascal Audet** is Professor in Geophysics in the Department of Earth Sciences, University of Ottawa. He currently holds the *University Research Chair in Solid Earth Geophysics*. Prior to this he was a Miller Research Fellow at the University of California, Berkeley. 
 
 
 
