@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Scientific Data Specialist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ottawa
-  url: "https://www.uottawa.ca/"
+- name: Ocean Networks Canada
+  url: "https://www.oceannetworks.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Seismology, Marine Seismology, Machine Learning, Signal Processing.
@@ -76,7 +76,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 Stephen Mosher is a PhD Candidate at the University of Ottawa.
