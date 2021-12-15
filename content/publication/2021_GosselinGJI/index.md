@@ -1,6 +1,6 @@
 +++
 title = "Azimuthal anisotropy in Bayesian surface-wave tomography: application to northern Cascadia and Haida Gwaii"
-date = 2020-11-16
+date = 2021-03-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["gosselin", "admin", "schaeffer", "Fiona A. Darbyshire", "esteve"]
