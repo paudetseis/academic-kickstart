@@ -10,10 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: NSERC Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
+- name: University of Calgary
 - name: University of Ottawa
   url: "https://www.uottawa.ca/"
 
@@ -44,7 +45,6 @@ awards:
 - 2018 Canadian Exploration Geophysical Society (KEGS) Scholarship
 - 2018 Editor's Choice article, Canadian Geotechnical Journal
 - 2017-2020 Vanier Canada Graduate Scholarship
-- 2017 Admission Scholarship, *University of Ottawa*
 
 
 
@@ -77,7 +77,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -29,14 +29,19 @@ interests:
 
 education:
   courses:
-  - course: MSc in Earth Sciences
+  - course: PhD in Earth Sciences
     institution: University of Ottawa
-    year: 2022
+    year: 2025
+  - course: MSc in Earth Sciences (fast-tracked to PhD)
+    institution: University of Ottawa
+    year: 2021
   - course: BSc in Physics
     institution: University of Windsor
     year: 2018
 
 awards:
+- 2021 Ontario Graduate Scholarship
+- 2021 CSEG Scholarship
 - 2020 Admission Scholarship, *University of Ottawa*
 - 2019 LEAD Medallion Scholar Gold Metal, *University of Windsor*
 - 2018 Dr. Luchan Krause Undegraduate Scholarship in Physics, *University of Windsor Physics Department*
@@ -73,5 +78,5 @@ user_groups:
 - Grad Students
 ---
 
-Taylor Tracey Kyryliuk is a master's student in the Geophysics group at the University of Ottawa.
+Taylor Tracey Kyryliuk is a PhD student in the Geophysics group at the University of Ottawa.
 
