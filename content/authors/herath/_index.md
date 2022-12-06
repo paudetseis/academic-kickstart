@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Pasan Herath
+name: Dr. Pasan Herath
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -75,5 +75,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Postdoc
+- Postdocs
 ---

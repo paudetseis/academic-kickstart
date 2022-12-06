@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Philippe Dales
+name: Dr. Philippe Dales
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Geophysicist, PhD
+role: Applied Seismology Consultant
 
 # Organizations/Affiliations
 organizations:

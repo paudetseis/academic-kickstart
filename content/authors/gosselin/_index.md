@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jeremy Gosselin
+name: Dr. Jeremy Gosselin
 
 # Username (this should match the folder name)
 authors:
@@ -15,8 +15,6 @@ role: NSERC Postdoctoral Fellow
 # Organizations/Affiliations
 organizations:
 - name: University of Calgary
-- name: University of Ottawa
-  url: "https://www.uottawa.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Seismology, Inverse problems, and Tectonics.

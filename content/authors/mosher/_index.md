@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Stephen G. Mosher
+name: Dr. Stephen G. Mosher
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Scientific Data Specialist, PhD
+role: Scientific Data Specialist
 
 # Organizations/Affiliations
 organizations:

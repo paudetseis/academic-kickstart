@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Clément Estève
+name: Dr. Clément Estève
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Wares Postdoctoral Fellow
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: McGill University
+- name: University of Vienna
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include seismic tomography, dynamics and evolution of northwestern Canada, seismic hazard assessment, and seismo-tectonics
@@ -38,6 +38,8 @@ education:
     year: 2014
 
 awards:
+- 2020 Wares Postdoctoral Fellowship, *McGill University*
+- 2020 Best PhD Thesis Award, *Canadian Tectonics Group*
 - 2020 BMO Graduate Scholarship
 - 2019 Best Student Paper Award, *Canadian Geophysical Union* (IUGG conference)
 - 2019 Canadian Exploration Geophysical Society (KEGS) Scholarship

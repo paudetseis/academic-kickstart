@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Shutian Ma
+name: Dr. Shutian Ma
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Seismologist, PhD
+role: Research Seismologist
 
 # Organizations/Affiliations
 organizations:

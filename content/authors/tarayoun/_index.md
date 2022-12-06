@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alizia Tarayoun
+name: Dr. Alizia Tarayoun
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research engineer, PhD
+role: Research engineer
 
 # Organizations/Affiliations
 organizations:
