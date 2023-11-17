@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Lecturer 
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ awards:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:cesteve@uottawa.ca"
+  link: "mailto:clement.esteve@univie.ac.at"
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -65,9 +65,9 @@ social:
 #  link: https://github.com/paudetseis
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/CV_Esteve_Clement.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/CV_Esteve_Clement.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""

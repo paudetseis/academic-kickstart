@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Morgan McLellan
+name: Dr. Morgan McLellan
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ottawa
-  url: "https://www.uottawa.ca/"
+- name: Statistics Canada
+  url: "https://ca.linkedin.com/in/morganmclellan?original_referer=https%3A%2F%2Fwww.google.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Geophysics, Seismology, Earthquakes, Tectonics.
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Earth Sciences
     institution: University of Ottawa
-    year: 2022
+    year: 2023
   - course: MSc in Earth Sciences
     institution: University of Ottawa
     year: 2016
@@ -72,7 +72,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 Morgan McLellan is a PhD candidate in the Geophysics group at the University of Ottawa.

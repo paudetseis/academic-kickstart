@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhezhe Lu
+name: Dr. Zhezhe Lu
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postodoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ottawa
-  url: ""
+- name: Zhejiang University
+  url: "https://www.researchgate.net/profile/Zhezhe-Lu-3"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Geophysics, Tectonophysics, Lithospheric Attributes, Gravity Inversion.
