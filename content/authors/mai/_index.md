@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ottawa
-  url: "https://www.uottawa.ca/"
+- name: Larus Technologies
+  url: "https://www.larus.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Geophysics, Signal Processing, Earthquakes, Machine Learning.
+bio: Hao successfully defended his PhD in August 2023. His research interests include Machine learning, Software development, Earthquake detection.
 
 interests:
 - Geophysics
@@ -72,7 +72,7 @@ email: "hmai090@uottawa.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 Hao Mai is a PhD student in Geophysics at the University of Ottawa.

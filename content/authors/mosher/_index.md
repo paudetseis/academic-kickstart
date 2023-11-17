@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Scientific Data Specialist
+role: Geophysical Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Ocean Networks Canada
-  url: "https://www.oceannetworks.ca"
+- name: Ideon Technologies
+  url: "https://ideon.ai/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Seismology, Marine Seismology, Machine Learning, Signal Processing.
+bio: Steve completed his PhD in May 2021. He then took up several positions in data science and machine learning in various sectors. His research interests include Seismology, Marine Seismology, Machine Learning, Signal Processing.
 
 interests:
 - Seismology
@@ -66,10 +66,10 @@ social:
 #   link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/cv_Mosher.pdf
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/stephen-mosher-514a951b3/
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
