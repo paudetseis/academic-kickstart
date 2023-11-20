@@ -3,7 +3,7 @@ title = "Crustal seismic anisotropy along the continental margin in western Cana
 date = 2022-11-17
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["traceykyryliuk", "admin", "gosselin", "schaeffer"]
+authors = ["kyryliuk", "admin", "gosselin", "schaeffer"]
 
 
 # Publication type.
