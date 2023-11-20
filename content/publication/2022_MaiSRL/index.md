@@ -51,7 +51,7 @@ projects = ["DataScience"]
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/maihao14/QuakeLabeler"
 url_dataset = ""
 url_project = ""
 url_slides = ""
