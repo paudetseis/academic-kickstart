@@ -21,26 +21,18 @@ organizations:
 bio: My research interests include Geophysics, Signal Processing, Earthquakes, Machine Learning.
 
 interests:
-- Geophysics
-- Signal Processing
-- Earthquakes
-- Machine Learning
+- Earthquake Early Warning
+- Seismic amplification
+- Spectral H/V ratio
 
 education:
   courses:
-  - course: PhD in Geophysics
+  - course: MSc in Earth Sciences
     institution: University of Ottawa
-    year: 2023
-  - course: MSc in Geological Engineering
-    institution: China University of Petroleum
-    year: 2016
-  - course: BSc in Geophysics
-    institution: Chengdu University of Technology
-    year: 2012
-
-awards:
-- 2015 Liu Guangding Geophysical Scholarship, China
-- 2019 International Admission Excellence Scholarship, *University of Ottawa*
+    year: 2022
+  - course: BSc in Engineering
+    institution: University of Waterloo
+    year: 2021
 
 
 # Social/Academic Networking
@@ -57,9 +49,9 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.ca/citations?user=Wt5i2qgAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/maihao14
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/maihao14
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -75,4 +67,4 @@ user_groups:
 - Grad Students
 ---
 
-Erica Pietroniro is a MSc student in Geophysics at the University of Ottawa.
+Erica Pietroniro is an MSc student in Earth Sciences at the University of Ottawa, working with Claire Perry at the Canadian Hazard Information Services.
