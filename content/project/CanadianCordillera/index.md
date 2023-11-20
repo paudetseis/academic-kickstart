@@ -1,6 +1,6 @@
 ---
 title: "Canadian Cordillera"
-summary: "The Canadian Cordillera is a large, elevated and deformed landmass in western Canada created by the forces of plate tectonics. Our group uses seismic data to produce images of its deep internal structure, which give insight into its history and evolution."
+summary: "The Canadian Cordillera is a large, elevated and deformed landmass in western Canada created and shaped by the forces of plate tectonics. Our group uses seismic data to produce images of its deep internal structure that give insight into its past and current tectonic activity."
 authors: []
 tags: ["CanadianCordillera"]
 categories: []
