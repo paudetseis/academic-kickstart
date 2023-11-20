@@ -3,7 +3,7 @@ title = "Seismic evidence for a weakened thick crust at the Beaufort Sea contine
 date = 2022-08-24
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["esteve", "Yajing Liu", "Ivan Koulakov", "schaeffer", admin"]
+authors = ["esteve", "Yajing Liu", "Ivan Koulakov", "schaeffer", "admin"]
 
 
 # Publication type.
