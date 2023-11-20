@@ -48,7 +48,7 @@ tags = []
 projects = ["SubductionZones"]
 
 # Links (optional).
-url_pdf = "https://academic.oup.com/gji/article-abstract/doi/10.1093/gji/ggaa285/5856557?redirectedFrom=fulltext"
+url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

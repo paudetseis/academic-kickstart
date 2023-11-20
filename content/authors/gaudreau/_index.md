@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Élyse Gaudreau
+name: Dr. Élyse Gaudreau
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Geophysics
     institution: University of Victoria
-    year: In progress
+    year: 2023
   - course: MSc in Earth Sciences
     institution: University of Ottawa
     year: 2018
@@ -79,5 +79,5 @@ user_groups:
 - Alumni
 ---
 
-Élyse Gaudreau is a former MSc student in the Geophysics group, now PhD student at the University of Victoria.
+Élyse Gaudreau is a former MSc student in the Geophysics group, who did a PhD at the University of Victoria.
 
