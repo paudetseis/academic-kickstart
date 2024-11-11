@@ -1,6 +1,6 @@
 +++
-title = "Probabilistic inversion of circular phase spectra: Application to two-station phase-velocity dispersion estimation in western Canada"
-date = 2022-12-23
+title = "Structure of the crust and upper mantle in Greenland and northeastern Canada: insights from anisotropic Rayleigh-wave tomography"
+date = 2024-08-05
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Parviz Ajourlou", "Fiona Darbyshire", "admin", "Glenn A. Milne"]

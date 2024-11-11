@@ -1,6 +1,6 @@
 +++
-title = "Probabilistic inversion of circular phase spectra: Application to two-station phase-velocity dispersion estimation in western Canada"
-date = 2022-12-23
+title = "A Reference Model of Crustal Thickness and Vp/Vs of Western Canada"
+date = 2024-09-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["zhang", "Yunfeng Chen", "Yu Jeffrey Gu", "Claire Currie", "admin", "Hersh Gilbert", "Derek L. Schutt", "Gabriela Fernandez-Viejo", "Yangkang Chen"]

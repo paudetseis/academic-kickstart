@@ -1,6 +1,6 @@
 +++
-title = "Probabilistic inversion of circular phase spectra: Application to two-station phase-velocity dispersion estimation in western Canada"
-date = 2022-12-23
+title = "Strength of continental lithosphere governed by the time since the last orogeny"
+date = 2024-10-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Lu", "admin", "Jiabiao Li", "Tao Zhang", "Chun-Feng Li"]
