@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Erica Pietroniro
+name: Charlotte Eberlein
 
 # Username (this should match the folder name)
 authors:
-- pietroniro
+- eberlein
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc Student
+role: BSc Honours
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,23 @@ organizations:
   url: "https://www.uottawa.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Geophysics, Signal Processing, Earthquakes, Machine Learning.
+bio: Charlotte is a BSc undergraduate in Geology-Physics at the University of Ottawa, working on determining the seismic velocity structure offshore New Zealand.
 
 interests:
-- Earthquake Early Warning
-- Seismic amplification
-- Spectral H/V ratio
+- Marine Seismology
+- Structural seismology
 
 education:
   courses:
-  - course: MSc in Earth Sciences
+  - course: BSc Geology-Physics
     institution: University of Ottawa
-    year: 2022
-  - course: BSc in Engineering
-    institution: University of Waterloo
-    year: 2021
+    year: 2026
+
+# awards:
+# - 2023 Ontario Graduate Scholarship
+# - 2023 Len and Genice Collett Graduate Scholarship in Geophysics, KEGS
+# - 2023 International Graduate Scholarship of the University of Ottawa, *University of Ottawa*
+# - 2022 Admission Scholarship, *University of Ottawa*
 
 
 # Social/Academic Networking
@@ -42,29 +44,24 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:hmai090@uottawa.ca"
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.ca/citations?user=Wt5i2qgAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/maihao14
+  link: "mailto:ceber032@uottawa.ca"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/charlotte-eberlein-47b6b1263/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
-#  link: files/Pascal_Audet_CV.pdf
+#   link: https://sites.google.com/view/quanzhang/cv
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "hmai090@uottawa.ca"
+email: "ceber032@uottawa.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Grad Students
 ---
 
-Erica Pietroniro is an MSc student in Earth Sciences at the University of Ottawa, working with Claire Perry at the Canadian Hazard Information Services.
+Charlotte is a BSc undergraduate in Geology-Physics at the University of Ottawa, working on determining the seismic velocity structure offshore New Zealand.
