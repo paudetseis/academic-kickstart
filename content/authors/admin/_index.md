@@ -40,6 +40,7 @@ education:
     year: 2002
 
 awards:
+- 2024 Catalyst International Leader Fellowship, *Royal Society of New Zealand*
 - 2020 David Elliott Best Paper Award from the Canadian Tectonics Group, *Geological Association of Canada* 
 - 2018 Member of the College of New Scholars, Artists and Scientists, *Royal Society of Canada*
 - 2018 Young Scientist of the Year, *Canadian Geophysical Union*

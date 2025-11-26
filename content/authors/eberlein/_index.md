@@ -18,10 +18,9 @@ organizations:
   url: "https://www.uottawa.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Charlotte is a BSc undergraduate in Geology-Physics at the University of Ottawa, working on determining the seismic velocity structure offshore New Zealand.
+bio: Charlotte is a BSc undergraduate in Geology-Physics at the University of Ottawa, working on improving seismic receiver function processing in the Cascadia subduction zone.
 
 interests:
-- Marine Seismology
 - Structural seismology
 
 education:
@@ -64,4 +63,4 @@ user_groups:
 - Grad Students
 ---
 
-Charlotte is a BSc undergraduate in Geology-Physics at the University of Ottawa, working on determining the seismic velocity structure offshore New Zealand.
+Charlotte is a BSc undergraduate in Geology-Physics at the University of Ottawa, working on imaging the Cascadia subduction zone using receiver functions.
