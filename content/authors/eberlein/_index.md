@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uottawa.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Charlotte is a BSc undergraduate in Geology-Physics at the University of Ottawa, working on improving seismic receiver function processing in the Cascadia subduction zone.
+bio: Charlotte obtained her BSc in Geology-Physics at the University of Ottawa, working on improving seismic receiver function processing in the Cascadia subduction zone.
 
 interests:
 - Structural seismology
@@ -60,7 +60,7 @@ email: "ceber032@uottawa.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Charlotte is a BSc undergraduate in Geology-Physics at the University of Ottawa, working on imaging the Cascadia subduction zone using receiver functions.
+Charlotte obtained her BSc in Geology-Physics at the University of Ottawa, working on imaging the Cascadia subduction zone using receiver functions. She will start an MSc at the University of Waterloo in September 2026.

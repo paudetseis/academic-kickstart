@@ -10,12 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Ottawa
-  url: "https://www.uottawa.ca/"
+- name: Simon Fraser University
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Geophysics, Signal Processing, Earthquakes, Machine Learning.
@@ -27,9 +26,12 @@ interests:
 
 education:
   courses:
+  - course: PhD in Earth and Environmental Sciences
+    institution: Simon Fraser University
+    year: 2030
   - course: MSc in Earth Sciences
     institution: University of Ottawa
-    year: 2022
+    year: 2024
   - course: BSc in Engineering
     institution: University of Waterloo
     year: 2021
@@ -42,7 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:hmai090@uottawa.ca"
+  link: "mailto:erica.piet306@gmail.com"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/erica-pietroniro-19937013b/
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -59,7 +64,7 @@ social:
 #  link: files/Pascal_Audet_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "hmai090@uottawa.ca"
+email: "erica.piet306@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -67,4 +72,4 @@ user_groups:
 - Alumni
 ---
 
-Erica Pietroniro is an MSc student in Earth Sciences at the University of Ottawa, working with Claire Perry at the Canadian Hazard Information Services.
+Erica Pietroniro obtained an MSc in Earth Sciences at the University of Ottawa, working with Claire Perry at the Canadian Hazard Information Services. She is now a PhD student at Simon Fraser University studying real-time geophysical hazard monitoring at Mt. Meager, British Columbia, Canada.
