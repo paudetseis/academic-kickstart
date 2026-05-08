@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uottawa.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the seismic velocity structure of the Hikurangi subduction zone.
+bio: My research focuses on the geodynamics of the Hikurangi subduction zone.
 
 interests:
 - Marine Seismology
@@ -73,4 +73,4 @@ user_groups:
 - Grad Students
 ---
 
-Maël Roussey is a PhD student in Earth Sciences at the University of Ottawa, working on the seismic velocity structure of the Hikurangi subduction zone.
+Maël Roussey is a PhD student in Earth Sciences at the University of Ottawa, working on the ELVES data to find whales, boats, and earthquakes.

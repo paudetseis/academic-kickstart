@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Quan Zhang
+name: Dr. Quan Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Earth Sciences (Geophysics)
+  - course: PhD in Earth Sciences
     institution: University of Ottawa
     year: 2026
   - course: MSc in Resource Exploration and Geophysics
@@ -39,9 +39,16 @@ education:
     year: 2019
 
 awards:
+- 2026 Teck Student Travel Grant
+- 2026 OCUSEG-PDAC Student Funding
+- 2026 KEGS Foundation Scholarship
+- 2025 Doctoral Mobility Scholarship, *University of Ottawa*
+- 2024 KEGS Foundation Scholarship
+- 2024 CGU Solid Earth Section Best Student Presentation Award
+- 2024 Travel Grant for the Mars Interior and Geophysics After InSight Meeting
 - 2023 Ontario Graduate Scholarship
 - 2023 Len and Genice Collett Graduate Scholarship in Geophysics, KEGS
-- 2023 International Graduate Scholarship of the University of Ottawa, *University of Ottawa*
+- 2022 Doctoral International Scholarship, *University of Ottawa*
 - 2022 Admission Scholarship, *University of Ottawa*
 
 
@@ -78,7 +85,9 @@ email: "qzhan168@uottawa.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Quan Zhang is a PhD candidate in Earth Sciences at the University of Ottawa, also working with Prof. Mladen Nedimović at Dalhousie University.
+Quan Zhang obtained his PhD in Earth Sciences at the University of Ottawa. He will start a Postdoctoral Fellowship at the Australian National University with Prof. Hrvoje Tkalkic in September 2026. 
+
+Quan is an avid traveller, and takes every opportunity to do a solo trip to a volcano. He also seeks out opportunities to go on a research cruise to deploy ocean-bottom seismometers, despite getting sea sick every time.

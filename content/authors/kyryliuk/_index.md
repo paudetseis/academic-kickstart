@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Earth Sciences
     institution: University of Ottawa
-    year: 2025
+    year: 2026
   - course: MSc in Earth Sciences (fast-tracked to PhD)
     institution: University of Ottawa
     year: 2021
@@ -85,5 +85,5 @@ user_groups:
 - Grad Students
 ---
 
-Taylor Tracey Kyryliuk is a PhD student in the Geophysics group at the University of Ottawa. They curently hold the position of graduate student representative on the AGU Seismology Section Executive Committee. Previously they held the position of Treasurer of the Graduate Earth and Environmental Science Association for two consecutive years. Taylor is also a member of the Collaborative Research and Training Experience project in Marine Geodynamics and Georesources (iMAGE-CREATE).
+Taylor Tracey Kyryliuk is a PhD student in the Geophysics group at the University of Ottawa. They held the position of graduate student representative on the AGU Seismology Section Executive Committee, as well as the position of Treasurer of the Graduate Earth and Environmental Science Association for two consecutive years. Taylor is also a member of the Collaborative Research and Training Experience project in Marine Geodynamics and Georesources (iMAGE-CREATE).
 
