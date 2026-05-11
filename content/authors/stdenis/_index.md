@@ -34,6 +34,14 @@ education:
     institution: University of Ottawa
     year: 2026
 
+awards:
+- 2026 Larry Strong Financial Award
+- 2026 Special Merit Scholarship
+- 2026 CEGA Student Industry Field Trip (SIFT)
+- 2025 THE Glencore Student Sponsorship Program
+- 2025 Merit Scholarship
+- 2023 Merit Scholarship
+- 2023 & 2026 Admission Scholarships
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
