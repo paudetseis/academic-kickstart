@@ -62,7 +62,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Associate
+- Researchers
 ---
 
 Theo joined the uOttawa Geophysics Group in April 2026. He is investigating optimal conditions for ambient noise processing for robust seismic imaging of near-surface structure in seismic exploration. 
